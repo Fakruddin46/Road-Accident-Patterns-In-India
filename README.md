@@ -11,3 +11,5 @@ Project Dataset: https://drive.google.com/file/d/1NzYwH3QEWcXOYfzT877AkMDsPz1E54
 Project Storytelling: https://q0908nd644x6487.sg.qlikcloud.com/sense/app/9f2d6504-6095-4521-9ac9-a582050c54d9/story/gaWxNt/state/play/slide/BvgUDeC/hubUrl/%2Fhub%2F
 
 Project app:https://q0908nd644x6487.sg.qlikcloud.com/sense/app/9f2d6504-6095-4521-9ac9-a582050c54d9/sheet/Hsjbmjd/state/analysis/hubUrl/%2Fhub%2F
+
+Project Document Google Drive: https://q0908nd644x6487.sg.qlikcloud.com/sense/app/9f2d6504-6095-4521-9ac9-a582050c54d9/sheet/Hsjbmjd/state/analysis/hubUrl/%2Fhub%2F
