@@ -4,7 +4,7 @@ Discription: This project gives some view on different accident patterns in Indi
 
 Project Document: https://workdrive.zohoexternal.com/writer/open/iwq9l461a6bd8c2a64148b278bf1cdb01648a?authId=%7B%22linkId%22%3A%225k2wApawxec-LYmlU%22%7D
 
-Project Demonstration:[ https://www.loom.com/share/7a64fb28b7c34621b4fff4f68477057b?sid=9fa2ee88-eac2-437b-be7a-2f19943822a1]
+Project Demonstration: https://workdrive.zohoexternal.com/writer/open/iwq9l461a6bd8c2a64148b278bf1cdb01648a?authId=%7B%22linkId%22%3A%225k2wApawxec-LYmlU%22%7D
 
 Project Dataset: https://drive.google.com/file/d/1NzYwH3QEWcXOYfzT877AkMDsPz1E54sR/view?usp=sharing
 
